@@ -19,7 +19,7 @@ Exibição condicional do QR Code após a geração
 
 ## 🖼️ Demonstração
 
-![Demonstração do projeto](./img/qrcode.png)
+![Demonstração do projeto](https://elane10.github.io/qrCode/)
 
 > Exemplo de QR Code gerado para demonstração
 
